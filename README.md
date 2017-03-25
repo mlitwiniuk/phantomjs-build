@@ -1,6 +1,6 @@
 # Phantomjs-build
 
-_Phantom js build for `ubuntu:14.04` created with Docker._
+Phantom js build for `ubuntu:16.04` created with Docker._
 
 ## Getting started
 
@@ -13,6 +13,6 @@ _Phantom js build for `ubuntu:14.04` created with Docker._
 
 ## Current version
 ```
-root@23397955e726:/# phantomjs -v
-2.0.0
+root@4979dde60dd8:/# /tmp/phantomjs/bin/phantomjs --version
+2.1.1
 ```
