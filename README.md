@@ -13,6 +13,6 @@ Phantom js build for `ubuntu:16.04` created with Docker._
 
 ## Current version
 ```
-root@4979dde60dd8:/# /tmp/phantomjs/bin/phantomjs --version
+root@4979dde60dd8:/# /usr/local/bin/phantomjs --version
 2.1.1
 ```
